@@ -13,6 +13,9 @@ Release:           %{release}
 Source:            %{name}-%{version}.tar.gz
 Prefix:            /usr
 Group:             Development/Tools
+URL:               https://github.com/bohdaq/rust-http-to-https-letsencrypt-acme
+Vendor:            Bohdan Tsap
+Packager:          Bohdan Tsap <bohdan.tsap@tutanota.com>
 
 %global debug_package %{nil}
 
